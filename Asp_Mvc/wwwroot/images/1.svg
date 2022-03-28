@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="370" height="300" viewBox="0 0 370 300">
+  <g id="_1" data-name="1" transform="translate(-375 -658)">
+    <rect id="bg" width="370" height="300" transform="translate(375 658)" fill="#c1c1c1"/>
+    <rect id="bg-2" data-name="bg" width="370" height="70" transform="translate(375 888)" fill="#002249" opacity="0.702"/>
+    <text id="UI_UX_Design" data-name="UI/UX Design" transform="translate(495 929.5)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">UI/UX Design</tspan></text>
+    <rect id="bg-3" data-name="bg" width="70" height="70" transform="translate(395 868)" fill="#006de8"/>
+  </g>
+</svg>

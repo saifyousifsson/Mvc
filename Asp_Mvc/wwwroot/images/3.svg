@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="370" height="300" viewBox="0 0 370 300">
+  <g id="_3" data-name="3" transform="translate(-1175 -658)">
+    <rect id="bg" width="370" height="300" transform="translate(1175 658)" fill="#c1c1c1"/>
+    <rect id="bg-2" data-name="bg" width="370" height="70" transform="translate(1175 888)" fill="#002249" opacity="0.702"/>
+    <text id="Technology_Prof." data-name="Technology Prof." transform="translate(1295 929.5)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Technology Prof.</tspan></text>
+    <rect id="bg-3" data-name="bg" width="70" height="70" transform="translate(1195 868)" fill="#006de8"/>
+  </g>
+</svg>

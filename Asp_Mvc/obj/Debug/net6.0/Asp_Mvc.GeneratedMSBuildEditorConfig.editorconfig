@@ -1,0 +1,96 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Asp_Mvc
+build_property.RootNamespace = Asp_Mvc
+build_property.ProjectDir = C:\MyWork\Asp_Mvc\Asp_Mvc\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\MyWork\Asp_Mvc\Asp_Mvc
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/MyWork/Asp_Mvc/Asp_Mvc/Views/Admin/Users.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXNlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MyWork/Asp_Mvc/Asp_Mvc/Views/Authentication/SignIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cU2lnbkluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MyWork/Asp_Mvc/Asp_Mvc/Views/Authentication/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cU2lnblVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MyWork/Asp_Mvc/Asp_Mvc/Views/Contacts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MyWork/Asp_Mvc/Asp_Mvc/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MyWork/Asp_Mvc/Asp_Mvc/Views/Home/PageNotFound.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYWdlTm90Rm91bmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MyWork/Asp_Mvc/Asp_Mvc/Views/Profile/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MyWork/Asp_Mvc/Asp_Mvc/Views/Profile/FileUpload.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZVxGaWxlVXBsb2FkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MyWork/Asp_Mvc/Asp_Mvc/Views/Profile/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MyWork/Asp_Mvc/Asp_Mvc/Views/Role/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MyWork/Asp_Mvc/Asp_Mvc/Views/Services/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MyWork/Asp_Mvc/Asp_Mvc/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MyWork/Asp_Mvc/Asp_Mvc/Views/Shared/_AuthLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BdXRoTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MyWork/Asp_Mvc/Asp_Mvc/Views/Shared/_DifferentLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9EaWZmZXJlbnRMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MyWork/Asp_Mvc/Asp_Mvc/Views/Shared/_HeaderPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXJQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MyWork/Asp_Mvc/Asp_Mvc/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MyWork/Asp_Mvc/Asp_Mvc/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MyWork/Asp_Mvc/Asp_Mvc/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MyWork/Asp_Mvc/Asp_Mvc/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/MyWork/Asp_Mvc/Asp_Mvc/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

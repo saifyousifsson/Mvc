@@ -1,0 +1,22 @@
+<svg id="Component_2_1" data-name="Component 2 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="570" height="600" viewBox="0 0 570 600">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.042" x2="1" y2="0.958" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#06f"/>
+      <stop offset="1" stop-color="#60abff"/>
+    </linearGradient>
+  </defs>
+  <g id="bg" transform="translate(200 196)">
+    <g id="bg-2" data-name="bg">
+      <path id="bg-3" data-name="bg" d="M1546,3115v404H1176" transform="translate(-1176 -3115)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+  <g id="Component_1_1" data-name="Component 1 – 1">
+    <g id="Group_36" data-name="Group 36" transform="translate(-976 -2919)">
+      <g id="Group_35" data-name="Group 35">
+        <g id="Group_37" data-name="Group 37">
+          <rect id="bg-4" data-name="bg" width="529" height="558" transform="translate(976 2919)" fill="#445f7a"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

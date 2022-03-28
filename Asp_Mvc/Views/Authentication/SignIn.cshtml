@@ -1,0 +1,87 @@
+﻿@model SignInForm
+
+@{
+    ViewData["Title"] = "Logga in";
+    Layout = "~/Views/Shared/_AuthLayout.cshtml";
+}
+
+ <div class="medlem d-flex justify-content-center m-8 align-items-center ">
+        <div class="container"> 
+           <div id="signup">
+               <div class="title">
+                   <h1>@ViewData["Title"]</h1>
+                   <p>Logga in med din e-postadress och lösenord. Inte medlem: <a asp-action="SignUp">Skapa ett konto här</a></p>
+               </div>
+               <div class="d-flex justify-content-center">
+                   <form asp-action="SignIn" asp-route-returnUrl="@Model.ReturnUrl" class="col-8">
+                       <div class="row g-3">
+                        
+                           <div class="col-12 ">
+                               <input  asp-for="Email" type="text" class="form-control" placeholder="Ange e-postadress">
+                               <span asp-validation-for="Email" class="error"></span>
+                           </div>
+                         
+                               <div class="col-12">
+                                   <input asp-for="Password"  type="password" class="form-control" placeholder="Ange lösenord">
+                                   <span asp-validation-for="Password" class="error"></span>
+                               </div>
+                      
+     
+                           <div asp-validation-summary="ModelOnly" class="error"></div>
+   
+                           <button type="submit" class="btn btn-main">@ViewData["Title"]</button>
+                       </div>
+                   </form>
+               </div>
+           </div>
+       </div>
+   </div>
+    <div class="hours mt-5" >
+           <div class="container">
+               <section id="Working-Hours">
+                <div class="column">
+                   <div class="content">
+                     <h2>OmniVus.</h2>
+                     <h5>The web has changed a lot since we posted our first article back in 2007. The team at Mattin-Lassi Group has changed too, as have the things that we bring to our community 
+                         conferences, books, and our membership added to the online magazine.<br> 
+                         <br />
+                         <br >
+                         One thing that hasn’t changed is that we’re a small team — with most of us not working</h5>
+                          <img class="line1-image" src="images/line1.svg" alt""/>
+                      
+                          <h4>Copyright © Mattin-Lassei Group AB - 2022</h4>
+                   </div>
+                </div>
+                <div class="container">
+                    <div class="column">
+                        <div class="content">
+                            <h2 class="Working"> Working Hours </h2>
+                            <h4 class="timm"> Monday - Friday: 7:00 - 17:00<br >
+                                  <br >
+                                Saturday: 7:00 - 12:00<br >
+                               <br >
+                                Sunday and holidays: 8:00 - 10:00</h4>
+                                <h5 class="formore"> <strong>For more then 15 years,</strong> IT Service has been a <br /> reliable partner in the field of logistics and<br /> cargo forwarding.</h5>
+                                <img class="t-image" src="images/Group43.svg" alt""/>
+                        </div>
+                        
+
+                    </div>
+                    
+                </div>
+
+               </section>
+           </div>
+       </div>
+     
+   
+
+   
+
+   
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

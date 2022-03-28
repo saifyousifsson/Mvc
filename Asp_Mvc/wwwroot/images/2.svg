@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="370" height="300" viewBox="0 0 370 300">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#06f"/>
+      <stop offset="1" stop-color="#60abff"/>
+    </linearGradient>
+  </defs>
+  <g id="_2" data-name="2" transform="translate(-775 -658)">
+    <rect id="bg" width="370" height="300" transform="translate(775 658)" fill="#c1c1c1"/>
+    <rect id="bg-2" data-name="bg" width="370" height="180" transform="translate(775 778)" opacity="0.902" fill="url(#linear-gradient)"/>
+    <text id="The_functional_goal_of_technical_content_is_to_help_people_use_a_product_successfully._The_business_goal_must_tie_the_content." data-name="The functional goal of technical content is to help people use a product successfully. The business goal must tie the content." transform="translate(815.26 853.534)" fill="#fff" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="15">The functional goal of technical content is to </tspan><tspan x="0" y="41">help people use a product successfully. The </tspan><tspan x="0" y="67">business goal must tie the content.</tspan></text>
+    <text id="IT_Consultancy" data-name="IT Consultancy" transform="translate(895 818.5)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">IT Consultancy</tspan></text>
+    <rect id="bg-3" data-name="bg" width="70" height="70" transform="translate(795 757)" fill="#006de8"/>
+  </g>
+</svg>

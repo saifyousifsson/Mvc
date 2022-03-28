@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="370" height="300" viewBox="0 0 370 300">
+  <g id="_6" data-name="6" transform="translate(-1175 -999)">
+    <rect id="bg" width="370" height="300" transform="translate(1175 999)" fill="#c1c1c1"/>
+    <rect id="bg-2" data-name="bg" width="370" height="70" transform="translate(1175 1229)" fill="#002249" opacity="0.702"/>
+    <text id="Game_Design" data-name="Game Design" transform="translate(1295 1270.5)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Game Design</tspan></text>
+    <rect id="bg-3" data-name="bg" width="70" height="70" transform="translate(1195 1209)" fill="#006de8"/>
+  </g>
+</svg>

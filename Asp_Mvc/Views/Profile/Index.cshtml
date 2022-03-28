@@ -1,0 +1,86 @@
+﻿@model Asp_Mvc.Views.ViewModels.ProfileViewModel
+
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AuthLayout.cshtml";
+}
+@{
+        ViewData["Title"] = @User.FindFirst("DisplayName").Value;
+
+}
+
+<div class="container mb-3">
+ 
+    <h5 class="display-4">@User.FindFirst("DisplayName").Value</h5>
+
+      <img src="@("~/profileImages/"+Model.profileImage.FileName)" asp-append-version="true" height="150" width="150" style="border-radius: 50%" />
+
+     <p>@User.FindFirst("Email").Value</p>
+<div>
+    <h4>Addressinformation</h4>
+    <hr />
+    <div>
+        @Model.Address.Address.AddressLine
+    </div>
+    <div mb-3>
+        @Model.Address.Address.PostalCode, @Model.Address.Address.City
+
+    </div>
+    </div>
+      <hr />
+    <div >
+                <a asp-controller="Profile" asp-action="FileUpload" asp-route-id="@Model.profileImage.FileName">Upload profile picture </a>   //  
+                <a asp-controller="Profile" asp-action="Edit" asp-route-id="@Model.profileForm" > Edit</a>
+
+    </div>
+  
+</div>
+
+ <div class="hours mt-5">
+           <div class="container">
+               <section id="Working-Hours">
+                <div class="column">
+                   <div class="content">
+                     <h2>OmniVus.</h2>
+                     <h5>The web has changed a lot since we posted our first article back in 2007. The team at Mattin-Lassi Group has changed too, as have the things that we bring to our community 
+                         conferences, books, and our membership added to the online magazine.<br> 
+                         <br />
+                         <br >
+                         One thing that hasn’t changed is that we’re a small team — with most of us not working</h5>
+                          <img class="line1-image" src="images/line1.svg" alt""/>
+                      
+                          <h4>Copyright © Mattin-Lassei Group AB - 2022</h4>
+                   </div>
+                </div>
+                <div class="container">
+                    <div class="column">
+                        <div class="content">
+                            <h2 class="Working"> Working Hours </h2>
+                            <h4 class="timm"> Monday - Friday: 7:00 - 17:00<br >
+                                  <br >
+                                Saturday: 7:00 - 12:00<br >
+                               <br >
+                                Sunday and holidays: 8:00 - 10:00</h4>
+                                <h5 class="formore"> <strong>For more then 15 years,</strong> IT Service has been a <br /> reliable partner in the field of logistics and<br /> cargo forwarding.</h5>
+                                <img class="t-image" src="images/Group43.svg" alt""/>
+                        </div>
+                        
+
+                    </div>
+                    
+                </div>
+
+               </section>
+           </div>
+       </div>
+   
+
+
+
+
+
+
+
+
+
